@@ -24,7 +24,7 @@ myApp.factory("bookService", function () {
             rating: 4,
             binding: "Paperback",
             publisher: "Random House India",
-            releaseDate: "12-08-2014",
+            releaseDate: "12-08-2020",
             deatils: "Linda, in her thirties, begins to question the routine and predoctablity of her days."
 
         },
